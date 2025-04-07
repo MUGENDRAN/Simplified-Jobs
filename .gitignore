@@ -33,4 +33,4 @@ build/
 .vscode/
 
 #properties
-/simplified-jobs_simplified-jobs/src/main/resources/application.properties
+*/src/main/resources/application.properties
